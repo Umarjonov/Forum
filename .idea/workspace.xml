@@ -3,8 +3,28 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Umarjonov" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="381fe4c7-cb48-4cbd-b1e3-767d7ca837a6" name="Default Changelist" comment="forum 11 lesson complate" />
+    <list default="true" id="381fe4c7-cb48-4cbd-b1e3-767d7ca837a6" name="Default Changelist" comment="forum 11 lesson complate">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,7 +164,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -167,7 +187,10 @@
       <workItem from="1609821082730" duration="17379000" />
       <workItem from="1609907435041" duration="8888000" />
       <workItem from="1609918029738" duration="10979000" />
-      <workItem from="1609993859880" duration="15178000" />
+      <workItem from="1609993859880" duration="16725000" />
+      <workItem from="1610084845734" duration="216000" />
+      <workItem from="1610085204754" duration="288000" />
+      <workItem from="1610085613614" duration="1737000" />
     </task>
     <task id="LOCAL-00001" summary="forum 11 lesson complate">
       <created>1610079757156</created>
@@ -176,72 +199,38 @@
       <option name="project" value="LOCAL" />
       <updated>1610079757156</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="any">
+      <created>1610080577630</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610080577630</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="forum 11 lesson complate" />
-    <option name="LAST_COMMIT_MESSAGE" value="forum 11 lesson complate" />
+    <MESSAGE value="any" />
+    <option name="LAST_COMMIT_MESSAGE" value="any" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="275" y="22" key="#Deployment" timestamp="1610000666677">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="22" key="#Deployment/0.0.1366.728/-1366.-130.1366.728@0.0.1366.728" timestamp="1610000666677" />
-    <state x="275" y="5" width="1034" height="718" key="#Plugins" timestamp="1609918012061">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="5" width="1034" height="718" key="#Plugins/0.0.1366.728/-1366.-130.1366.728@0.0.1366.728" timestamp="1609918012061" />
-    <state x="259" y="9" key="#SSH_Configurations" timestamp="1610000652759">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="259" y="9" key="#SSH_Configurations/0.0.1366.728/-1366.-130.1366.728@0.0.1366.728" timestamp="1610000652759" />
-    <state x="399" y="193" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1609916163605">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="399" y="193" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1366.728/-1366.-130.1366.728@0.0.1366.728" timestamp="1609916163605" />
-    <state x="432" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1609940121019">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="432" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/-1366.-130.1366.728@0.0.1366.728" timestamp="1609940121019" />
-    <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1609750784223">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728/-1366.-130.1366.728@0.0.1366.728" timestamp="1609750784223" />
-    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1610079661516">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728/-1366.-130.1366.728@0.0.1366.728" timestamp="1610079661516" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1609931224273">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728/-1366.-130.1366.728@0.0.1366.728" timestamp="1609931224273" />
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1610080545279">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1366.-130.1366.728@0.0.1366.728" timestamp="1610080545279" />
-    <state x="541" y="261" key="WebDeployment.AddServerDialog.v.1" timestamp="1610000623759">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="541" y="261" key="WebDeployment.AddServerDialog.v.1/0.0.1366.728/-1366.-130.1366.728@0.0.1366.728" timestamp="1610000623759" />
-    <state x="500" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610079776212">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="500" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1366.-130.1366.728@0.0.1366.728" timestamp="1610079776212" />
-    <state x="504" y="14" key="ftp.server.browser" timestamp="1610000665483">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="504" y="14" key="ftp.server.browser/0.0.1366.728/-1366.-130.1366.728@0.0.1366.728" timestamp="1610000665483" />
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1609855509110">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728/-1366.-130.1366.728@0.0.1366.728" timestamp="1609855509110" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1610012342069">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1366.-130.1366.728@0.0.1366.728" timestamp="1610012342069" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
