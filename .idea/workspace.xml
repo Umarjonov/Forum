@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="381fe4c7-cb48-4cbd-b1e3-767d7ca837a6" name="Default Changelist" comment="" />
+    <list default="true" id="381fe4c7-cb48-4cbd-b1e3-767d7ca837a6" name="Default Changelist" comment="forum 11 lesson complate" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,12 +167,24 @@
       <workItem from="1609821082730" duration="17379000" />
       <workItem from="1609907435041" duration="8888000" />
       <workItem from="1609918029738" duration="10979000" />
-      <workItem from="1609993859880" duration="14366000" />
+      <workItem from="1609993859880" duration="15178000" />
     </task>
+    <task id="LOCAL-00001" summary="forum 11 lesson complate">
+      <created>1610079757156</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610079757156</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="forum 11 lesson complate" />
+    <option name="LAST_COMMIT_MESSAGE" value="forum 11 lesson complate" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Deployment" timestamp="1610000666677">
@@ -207,10 +219,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728/-1366.-130.1366.728@0.0.1366.728" timestamp="1609931224273" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1610080545279">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1366.-130.1366.728@0.0.1366.728" timestamp="1610080545279" />
     <state x="541" y="261" key="WebDeployment.AddServerDialog.v.1" timestamp="1610000623759">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="541" y="261" key="WebDeployment.AddServerDialog.v.1/0.0.1366.728/-1366.-130.1366.728@0.0.1366.728" timestamp="1610000623759" />
+    <state x="500" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610079776212">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1366.-130.1366.728@0.0.1366.728" timestamp="1610079776212" />
     <state x="504" y="14" key="ftp.server.browser" timestamp="1610000665483">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
